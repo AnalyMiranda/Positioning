@@ -4,29 +4,30 @@ div {
 }
 .arriba {
 	background-color: #B22DE9;
-	position:absolute;	
+	position:static;	
 	left: 0px;
 	top: 0px;
 }
 .centro {
 	background-color: #44E0E6;
-	position:absolute;
-	right: 0px;
-	top: 0px;
+	position:static;
 }
 .abajo {
 	background-color: #2FEB5B;
-	position:absolute;
+	position:static;
 	left: 0px;
 	bottom: 0px;
 }
 .rojo {
 	background-color: #FF0000;
 	position:absolute;
-	right: 0px;
-	bottom: 0px;
+	left: 200px;
 }
 .flotante {
 	width: 200px;
 	height: 200px;
+}
+body {
+	margin: 0px;
+	padding: 0px;
 }
