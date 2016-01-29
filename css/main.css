@@ -1,0 +1,19 @@
+div {
+	height: 200px;
+	width: 200px;
+}
+.arriba {
+	background-color: #B22DE9;
+	position:relative;	
+	right: 0px;
+}
+.centro {
+	background-color: #44E0E6;
+	position: relative;
+	left: 200px;
+}
+.abajo {
+	background-color: #2FEB5B;
+	position:relative;
+	right: 0px;
+}
